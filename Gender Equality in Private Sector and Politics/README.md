@@ -1,0 +1,5 @@
+# Relationship between gender equality in private sector and in politics 
+
+The goal of this project is to explore whether countries who have achieved success in promoting gender equality in the private sector is equally successful in promoting gender equality in politics. Current discourse on gender equality is generally focused on either arena (politics or the private sector). However, I believe that in order to properly assess a country's progress on gender equality, it is important to look at its progress in both the political and private fields. Hence, I'm interested in examining if countries who have achieved progress in one field will more generally achieve the same (high or low) level of progress in the other field. 
+
+Finally, I'm also interested in grouping countries according to region (continents) and to see if particular regions have made more progress in achieving gender equality than other countries. 
